@@ -9,3 +9,5 @@ notMNIST_large/
 notMNIST_small/
 
 notMNIST.pickle
+
+MNIST_data/
