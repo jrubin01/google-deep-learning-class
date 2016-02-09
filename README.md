@@ -10,10 +10,6 @@ Assignment 2 notes:
 
 - Modifying step size in SGD can lead to NaN in matrices
 
-Assignment 3 notes:
-
-- No issues
-
-Assignment 4 notes:
+Assignments 3, 4 & 5 notes:
 
 - No issues
