@@ -13,3 +13,7 @@ notMNIST.pickle
 MNIST_data/
 
 text8.zip
+
+videos/
+
+mnist_logs/
